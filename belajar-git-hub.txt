@@ -1,2 +1,4 @@
 belajar github(vesion control system)
 belajar framework js (react js)
+menyelesaikan bootcamp gratis
+belajar membuat web real
